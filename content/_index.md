@@ -9,8 +9,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 
+        content:
         align: center
         background:
           image:
