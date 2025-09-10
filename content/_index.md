@@ -96,6 +96,7 @@ sections:
 
 
   - block: hero
+    id: Superfluids
     content:
       title: |
         Dark Matter Detection
