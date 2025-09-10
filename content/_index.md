@@ -19,6 +19,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+
+      - title: Dark Matter Detection
+        content: 'details'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#dmd'
         
       - title: Superfluids
         content: 'details'
@@ -97,15 +113,14 @@ sections:
 
   - block: hero
     content:
+    id: dmd
       title: |
-        Wowchemy
-        Research Group
+        Dark Matter Detection
       image:
-        filename: welcome.jpg
+        filename: LogoQMAP.png
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        More info here
   
   - block: collection
     content:
