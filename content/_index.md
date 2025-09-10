@@ -21,7 +21,7 @@ sections:
           color: '#666'
         
       - title: Superfluids
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 'details'
         align: left
         background:
           image:
@@ -37,7 +37,7 @@ sections:
           url: '#Superfluids'
 
       - title: New detection mechanism
-        content: 'Just opened last month!'
+        content: 'details'
         align: right
         background:
           image:
@@ -53,7 +53,7 @@ sections:
           url: '#newdetection'
         
       - title: New materials
-        content: 'Just opened last month!'
+        content: 'details'
         align: right
         background:
           image:
@@ -69,7 +69,7 @@ sections:
           url: '#newmaterials'
         
       - title: AI Design
-        content: 'Just opened last month!'
+        content: 'details'
         align: right
         background:
           image:
