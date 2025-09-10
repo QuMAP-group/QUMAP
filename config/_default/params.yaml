@@ -8,7 +8,7 @@
 appearance:
  theme_day: minimal
  theme_night:
- font: roboto
+ font: native
  font_size: M
 
 # SEO
