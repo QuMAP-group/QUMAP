@@ -13,7 +13,7 @@ sections:
       title: ""        # leave blank if you just want the image
       text: ""         # leave blank
       image:
-        filename: "Banner.svg"   # your long, thin image
+        filename: "Banner.jpg"   # your long, thin image
     design:
       align: center       # text alignment; irrelevant if no text
       height: full        # makes the hero fill the screen vertically
