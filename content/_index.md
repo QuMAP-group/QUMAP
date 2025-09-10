@@ -6,25 +6,19 @@ type: landing
 
 sections:
 
-  - block: markdown
+sections:
+  - block: hero
+    id: homepage-banner
     content:
-      title:
-      subtitle: ''
-      text:
+      title: ""        # leave blank if you just want the image
+      text: ""         # leave blank
+      image:
+        filename: "Banner.svg"   # your long, thin image
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: Banner.svg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      align: center       # text alignment; irrelevant if no text
+      height: full        # makes the hero fill the screen vertically
+      overlay_opacity: 0  # optional, removes dark overlay
+
 
   - block: slider
     content:
