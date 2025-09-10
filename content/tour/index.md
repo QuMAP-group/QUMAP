@@ -6,19 +6,16 @@ type: landing
 
 sections:
 
-- block: gallery
-  content:
-    title: "test
-    items:
-      - image:
-          filename: icon.png
-      - image:
-          filename: icon.png
-  design:
-    columns: "2"
-
-
-
+  - block: gallery
+    content:
+      title: "test
+      items:
+        - image:
+            filename: icon.png
+        - image:
+            filename: icon.png
+    design:
+      columns: "2"
 
   - block: slider
     content:
