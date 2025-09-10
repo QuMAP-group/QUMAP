@@ -20,22 +20,6 @@ sections:
           position: right
           color: '#666'
 
-      - title: Dark Matter Detection
-        content: 'details'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-        link:
-          icon: search
-          icon_pack: fas
-          text: Find out more
-          url: '#dmd'
-        
       - title: Superfluids
         content: 'details'
         align: left
@@ -113,7 +97,6 @@ sections:
 
   - block: hero
     content:
-    id: dmd
       title: |
         Dark Matter Detection
       image:
