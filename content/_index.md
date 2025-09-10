@@ -109,49 +109,30 @@ sections:
       interval: 2000
 
   - block: hero
-    id: Superfluids
-    content:
-      title: |
-        Superfluids
-      image:
-        filename: icon.png
-      text: |
-        <br>
-        More info here
-
-  - block: hero
-    id: Superfluids
-    content:
-      title: |
-        Superfluids
-      image:
-        filename: icon.png
-      text: |
-        <br>
-        More info here
-
-  - block: hero
     id: dmd
     content:
       title: "Dark Matter Detection"
       subtitle: "subtitle"
       text: |
-        Here’s some detail about our dark matter detection work.  
-        You can write **Markdown** here with paragraphs, lists, or links.
+        Details here
       image:
         filename: "icon.png"
     design:
       align: left   # text on the left, image on the right
 
-
-  - block: markdown
-    id: dmd
+  - block: hero
+    id: Superfluids
     content:
-      title: Dark Matter Detection
-      subtitle: subtitle
+      title: "Superfluids"
+      subtitle: "subtitle"
+      text: |
+        Details here
       image:
-        filename: icon.png
-      text: add more detail
+        filename: "icon.png"
+    design:
+      align: right   # text on the left, image on the right
+
+
 
 
   
