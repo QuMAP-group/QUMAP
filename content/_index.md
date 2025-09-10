@@ -108,9 +108,10 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       image:
         filename: icon.png
+      text: add more detail
+
 
   
   - block: collection
