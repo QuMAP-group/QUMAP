@@ -9,23 +9,39 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 
-        content:
+      - title: Welcome to the QuMAP Research Group
+        content: 'Take a look at what we are working on...'
         align: center
         background:
           image:
-            filename: LogoQMAP.png
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
+
+      - title: Dark Matter Detection
+        content: 'details'
+        align: left
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#dmd'
 
       - title: Superfluids
         content: 'details'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: center
@@ -41,7 +57,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.5
           position: center
@@ -57,7 +73,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.5
           position: center
@@ -73,7 +89,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.5
           position: center
@@ -104,10 +120,10 @@ sections:
         More info here
 
   - block: markdown
-    id: section-1
+    id: dmd
     content:
-      title: Section 1
-      subtitle: A subtitle
+      title: Dark Matter Detection
+      subtitle: subtitle
       image:
         filename: icon.png
       text: add more detail
