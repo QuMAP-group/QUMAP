@@ -103,16 +103,6 @@ sections:
         <br>
         More info here
 
-  - block: hero
-  id: newdetection
-  content:
-    title: |
-      Dark Matter Detection
-    image:
-      filename: LogoQMAP.png
-    text: |
-      <br>
-      More info here
   
   - block: collection
     content:
