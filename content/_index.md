@@ -98,7 +98,7 @@ sections:
       title: |
         Superfluids
       image:
-        filename: LogoQMAP.png
+        filename: icon.png
       text: |
         <br>
         More info here
