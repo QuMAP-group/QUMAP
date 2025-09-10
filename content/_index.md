@@ -130,7 +130,44 @@ sections:
       image:
         filename: "icon.png"
     design:
+      align: left   # text on the left, image on the right
+
+  - block: hero
+    id: newdetection
+    content:
+      title: "New Detection Mechanism"
+      subtitle: "subtitle"
+      text: |
+        Details here
+      image:
+        filename: "icon.png"
+    design:
       align: right   # text on the left, image on the right
+
+  - block: hero
+    id: newmaterials
+    content:
+      title: "New Materials"
+      subtitle: "subtitle"
+      text: |
+        Details here
+      image:
+        filename: "icon.png"
+    design:
+      align: right   # text on the left, image on the right
+
+  - block: hero
+    id: AI
+    content:
+      title: "AI Design"
+      subtitle: "subtitle"
+      text: |
+        Details here
+      image:
+        filename: "icon.png"
+    design:
+      align: right   # text on the left, image on the right
+    
 
 
 
