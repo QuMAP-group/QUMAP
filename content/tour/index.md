@@ -18,7 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+        
+      - title: Superfluids
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -28,7 +29,13 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#Superfluids'
+
+      - title: New detection mechanism
         content: 'Just opened last month!'
         align: right
         background:
@@ -39,10 +46,42 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: search
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Find out more
+          url: '#newdetection'
+        
+      - title: New materials
+        content: 'Just opened last month!'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#newmaterials'
+        
+      - title: AI Design
+        content: 'Just opened last month!'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: search
+          icon_pack: fas
+          text: Find out more
+          url: '#AI'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -51,4 +90,5 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
 ---
