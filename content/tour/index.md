@@ -11,9 +11,9 @@ sections:
       title: "test
       items:
         - image:
-            filename: icon.png
+            filename: "icon.png"
         - image:
-            filename: icon.png
+            filename: "icon.png"
     design:
       columns: "2"
 
