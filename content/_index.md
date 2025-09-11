@@ -20,6 +20,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
+          size: contain
           text_color_light: true
 
 
