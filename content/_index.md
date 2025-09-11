@@ -15,13 +15,16 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Banner.jpg
+          filename: BannerNew.png
           filters:
             brightness: 1
           parallax: false
           position: center
           size: contain
           text_color_light: true
+    padding:
+      top: 2rem     # reduce top padding
+      bottom: 2rem  # reduce bottom padding
 
 
   - block: slider
