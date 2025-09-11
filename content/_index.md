@@ -17,6 +17,7 @@ sections:
     design:
       align: center       # text alignment; irrelevant if no text
       height: full        # makes the hero fill the screen vertically
+      width: full
       overlay_opacity: 0  # optional, removes dark overlay
 
 
