@@ -19,7 +19,7 @@ sections:
       background:
         image:
           filename: "Banner.jpg"
-          size: cover       # ensures it stretches across the screen
+          size: contain       # ensures it stretches across the screen
           position: center  # centers the image
 
   - block: slider
