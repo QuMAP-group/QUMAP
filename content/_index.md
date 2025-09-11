@@ -10,16 +10,17 @@ sections:
   - block: hero
     id: homepage-banner
     content:
-      title: ""        # leave blank if you just want the image
-      text: ""         # leave blank
-      image:
-        filename: "Banner.jpg"   # your long, thin image
+      title: ""    # leave blank
+      text: ""     # leave blank
     design:
-      align: center       # text alignment; irrelevant if no text
-      height: full        # makes the hero fill the screen vertically
-      width: full
-      overlay_opacity: 0  # optional, removes dark overlay
-
+      align: center
+      height: full          # fill the viewport height
+      overlay_opacity: 0    # no dark overlay
+      background:
+        image:
+          filename: "Banner.jpg"
+          size: cover       # ensures it stretches across the screen
+          position: center  # centers the image
 
   - block: slider
     content:
