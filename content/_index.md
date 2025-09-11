@@ -106,7 +106,9 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000 
+      interval: 2000
+
+  
     
   - block: hero
     id: dmd
@@ -230,7 +232,7 @@ sections:
     design:
       columns: '1'
 
- - block: markdown
+  - block: markdown
     content:
       title:
       subtitle: ''
@@ -247,8 +249,7 @@ sections:
           size: contain
           text_color_light: true
     padding:
-      top: 0
-      bottom: 0
-
+      top: 0  
+      bottom: 0  
    
 ---
