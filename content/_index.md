@@ -6,21 +6,22 @@ type: landing
 
 sections:
 
-sections:
-  - block: hero
-    id: homepage-banner
+  - block: markdown
     content:
-      title: ""    # leave blank
-      text: ""     # leave blank
+      title:
+      subtitle: ''
+      text:
     design:
-      align: center
-      height: full          # fill the viewport height
-      overlay_opacity: 0    # no dark overlay
+      columns: '1'
       background:
-        image:
-          filename: "BannerNew.png"
-          size: contain       # ensures it stretches across the screen
-          position: center  # centers the image
+        image: 
+          filename: BannerNew.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          text_color_light: true
+
 
   - block: slider
     content:
