@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
- theme_day: dark
+ theme_day: light
  theme_night:
  font: serif
- font_size: S
+ font_size: L
 
 # SEO
 
