@@ -23,9 +23,8 @@ sections:
           size: contain
           text_color_light: true
     padding:
-      top: 0rem     # reduce top padding
-      bottom: 0rem  # reduce bottom padding
-
+      top: 0  
+      bottom: 0  
 
   - block: slider
     content:
