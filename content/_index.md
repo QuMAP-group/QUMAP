@@ -18,7 +18,7 @@ sections:
       overlay_opacity: 0    # no dark overlay
       background:
         image:
-          filename: "Banner.jpg"
+          filename: "BannerNew.png"
           size: contain       # ensures it stretches across the screen
           position: center  # centers the image
 
