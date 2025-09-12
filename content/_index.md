@@ -100,6 +100,7 @@ sections:
     id: beyondWIMP
     content:
       title: "Beyond WIMP Dark Matter: From Theory to Detection"
+      titleFontSize: "2rem"   # Some themes allow this
       subtitle: "subtitle"
       text: |
         We investigate how dark matter could have been produced in the early universe and what this means for its                    fundamental nature. Our research bridges cosmology and experiment, developing new methods to reveal dark                     matter signatures both in controlled laboratory systems and in the observation of celestial bodies.
