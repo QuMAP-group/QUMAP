@@ -21,7 +21,7 @@ sections:
           color: '#666'
 
       - title: Beyond WIMP Dark Matter: From Theory to Detection
-        content: 'We investigate how dark matter could have been produced in the early universe and what this means for its fundamental nature. Our research bridges cosmology and experiment, developing new methods to reveal dark matter signatures both in controlled laboratory systems and in the observation of celestial bodies.'
+        content: 'We investigate how dark matter could have been produced in the early universe and what this means for its                    fundamental nature. Our research bridges cosmology and experiment, developing new methods to reveal dark                     matter signatures both in controlled laboratory systems and in the observation of celestial bodies.'
         align: left
         background:
           image:
@@ -37,7 +37,7 @@ sections:
           url: '#beyondWIMP'
 
       - title: Quantum Sensors for sub-GeV Dark Matter
-        content: 'Dark matter particles lighter than the proton remain one of the most elusive frontiers. By advancing quantum sensing technologies and superfluid detectors, we aim to probe these ultra-light candidates with unprecedented precision and sensitivity.'
+        content: 'Dark matter particles lighter than the proton remain one of the most elusive frontiers. By advancing                         quantum sensing technologies and superfluid detectors, we aim to probe these ultra-light candidates with                     unprecedented precision and sensitivity.'
         align: left
         background:
           image:
@@ -53,7 +53,7 @@ sections:
           url: '#quantsensor'
 
       - title: Generative AI for Next-Generation Crystals
-        content: 'We harness the power of generative AI to design novel molecular crystals that act as particle detectors. These materials are envisioned to be inexpensive, scalable, and capable of directional sensitivity, opening a new pathway toward dark matter discovery.'
+        content: 'We harness the power of generative AI to design novel molecular crystals that act as particle detectors.                     These materials are envisioned to be inexpensive, scalable, and capable of directional sensitivity,                          opening a new pathway toward dark matter discovery.'
         align: right
         background:
           image:
@@ -69,7 +69,7 @@ sections:
           url: '#genAI'
         
       - title: AI for Molecules and Medicine
-        content: 'Artificial intelligence is revolutionising how we discover and evaluate molecular properties. Our work applies AI-driven searches to link molecular structure to biological activity, accelerating innovation at the intersection of fundamental science and health applications.'
+        content: 'Artificial intelligence is revolutionising how we discover and evaluate molecular properties. Our work                       applies AI-driven searches to link molecular structure to biological activity, accelerating innovation at                    the intersection of fundamental science and health applications.'
         align: right
         background:
           image:
