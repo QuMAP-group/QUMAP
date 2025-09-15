@@ -1,10 +1,10 @@
 ---
 # Display name
-title: John Smith
+title: Jacinto Paulo Neto
 
 # Full Name (for SEO)
-first_name: John
-last_name: Smith
+first_name: Jacinto
+last_name: Paulo Neto
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,24 +18,29 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: The main research focus is on Dark Matter, with an emphasis on connecting phenomena from the early universe to present-day searches for dark matter particles.
+My work has primarily explored Weakly Interacting Massive Particles (WIMPs), non-standard early cosmologies, and Primordial Black Holes (PBHs).
+More recently, I have broadened this scope to include light dark sector scenarios, such as sub-GeV thermal dark matter and Feebly Interacting Massive Particles (FIMPs).
+At present, my research is centered on FIMP models, investigated through high-precision experiments at both low- and high-energy frontiers, as well as inelastic dark matter frameworks.
+In addition, I am a member of the Cherenkov Telescope Array Observatory (CTAO) collaboration, where I contribute to the Dark Matter and Exotic Physics (DMEP) group.
 
 interests:
-  - Example 1
-  - Example 2
-  - Example 3
+  - Dark Matter
+  - Particle Physics Phenomenology
+  - Non-standard Early Universe Cosmology
+  - Primordial Black Holes
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# education:
+ # courses:
+   # - course: PhD in Artificial Intelligence
+    #  institution: Stanford University
+     # year: 2012
+   # - course: MEng in Artificial Intelligence
+    #  institution: Massachusetts Institute of Technology
+   #   year: 2009
+ #   - course: BSc in Artificial Intelligence
+   #   institution: Massachusetts Institute of Technology
+    #  year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
