@@ -39,7 +39,7 @@ education:
     - course: Post-Doctoral Researcher
       institution: Stockholm University
     - course: Faculty
-    - institution: University of Liverpool
+      institution: University of Liverpool
     
 
 # Social/Academic Networking
@@ -50,15 +50,15 @@ social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:test@example.org'
-  - icon: x
+  - icon: x-twitter
     icon_pack: fab
-    link: [https://x.com/SmirnovJuri]
-  - icon: link
+    link: "https://x.com/SmirnovJuri"
+  - icon: globe
     icon_pack: fas
-    link: [https://www.juri-smirnov.com/]
+    link: "https://www.juri-smirnov.com/"
   - icon: youtube
     icon_pack: fab 
-    link: https://www.youtube.com/watch?v=FGotDsp1IF4
+    link: "https://www.youtube.com/watch?v=FGotDsp1IF4"
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
