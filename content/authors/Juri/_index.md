@@ -59,7 +59,7 @@ social:
     link: [https://www.juri-smirnov.com/]
   - icon: youtube
     icon_pack: fab 
-    link: [https://www.youtube.com/watch?v=FGotDsp1IF4]
+    link: https://www.youtube.com/watch?v=FGotDsp1IF4
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
