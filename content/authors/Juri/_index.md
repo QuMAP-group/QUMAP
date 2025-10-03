@@ -18,8 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an experienced, versatile particle theorist and cosmologist. Work spans from formal theory to phenomenology, with connections to experiment, gravity, astrophysics, and atomic physics. At the moment my main focus is Dark Matter detection with a focus on new methods, such as quantum technologies, ultra low temperature environments and AI assisted new materials design.
-
+# bio: 
 interests:
   - Multigravity, and massive extensions of GR
   - Astroparticle physics and new dark sectors
@@ -84,3 +83,4 @@ user_groups:
   - Principal Investigator
 ---
 
+I am an experienced, versatile particle theorist and cosmologist. Work spans from formal theory to phenomenology, with connections to experiment, gravity, astrophysics, and atomic physics. At the moment my main focus is Dark Matter detection with a focus on new methods, such as quantum technologies, ultra low temperature environments and AI assisted new materials design.
