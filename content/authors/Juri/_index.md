@@ -58,7 +58,7 @@ social:
     icon_pack: fas
     link: [https://www.juri-smirnov.com/]
   - icon: youtube
-    icon_pack: fab
+    icon_pack: fab 
     link: [https://www.youtube.com/watch?v=FGotDsp1IF4]
 #  - icon: google-scholar
 #    icon_pack: ai
