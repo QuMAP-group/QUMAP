@@ -18,11 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: The main research focus is on Dark Matter, with an emphasis on connecting phenomena from the early universe to present-day searches for dark matter particles.
-My work has primarily explored Weakly Interacting Massive Particles (WIMPs), non-standard early cosmologies, and Primordial Black Holes (PBHs).
-More recently, I have broadened this scope to include light dark sector scenarios, such as sub-GeV thermal dark matter and Feebly Interacting Massive Particles (FIMPs).
-At present, my research is centered on FIMP models, investigated through high-precision experiments at both low- and high-energy frontiers, as well as inelastic dark matter frameworks.
-In addition, I am a member of the Cherenkov Telescope Array Observatory (CTAO) collaboration, where I contribute to the Dark Matter and Exotic Physics (DMEP) group.
+bio: The main research focus is on Dark Matter, with an emphasis on connecting phenomena from the early universe to present-day searches for dark matter particles. My work has primarily explored Weakly Interacting Massive Particles (WIMPs), non-standard early cosmologies, and Primordial Black Holes (PBHs). More recently, I have broadened this scope to include light dark sector scenarios, such as sub-GeV thermal dark matter and Feebly Interacting Massive Particles (FIMPs). At present, my research is centered on FIMP models, investigated through high-precision experiments at both low- and high-energy frontiers, as well as inelastic dark matter frameworks. In addition, I am a member of the Cherenkov Telescope Array Observatory (CTAO) collaboration, where I contribute to the Dark Matter and Exotic Physics (DMEP) group.
 
 interests:
   - Dark Matter
