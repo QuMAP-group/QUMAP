@@ -74,3 +74,16 @@ background, remains elusive.
 My research focuses primarily on the development of techniques to detect low energy neutrinos, such as those from the cosmic neutrino background or thermal processes in the Sun, and light dark matter, which remains undetected despite making up over 25% of the universe. Historically, I have explored the possibility of using coherent scattering, spin precession experiments, and accelerators. More recently, my work has focused on the potential of atoms and molecules as neutrino and dark matter detectors, incorporating machine learning techniques for novel material discovery. I am also a member of QUEST-DMC collaboration (hyperlink: https://gtr.ukri.org/projects?ref=ST%2FT006773%2F1), which aims to detect sub-GeV dark matter using superfluid Helium-3. 
 
 I've also authored the software package CINCO (cinco hyperlink: https://gitlab.com/JShergold/cinco), an automated tool for the computation of dark matter and neutrino induced transition amplitudes in hydrogen ions. There are lots of planned upgrades to this package, so please let me know if you're interested in working on them with me!
+
+**Publications**
+
+For a list of my research works, please see my inSpire page (hyperlink: https://inspirehep.net/authors/1862232?ui-citation-summary=true&ui-exclude-self-citations=true).
+
+**Research Talks**
+
+I am always interested in sharing my research, and enjoy giving talks. If you would like to hear from me, please get in touch so that we can arrange a date. Recently, I also gave a set of lectures on cosmic neutrino background detection at the EuCAPT Astroneutrino Theory Workshop (hyperlink: https://indico.utef.cvut.cz/event/39/).
+
+**PhD Students**
+
+Javier Pérez Soler (inSpire (hyperlink: https://inspirehep.net/authors/2808918?ui-citation-summary=true&ui-exclude-self-citations=true)), IFIC, CSIC-Universidad de Valencia, 2023-present.
+
