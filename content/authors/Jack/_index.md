@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 	Post-Doctoral Researchers
+  - Post-Doctoral Researchers
 ---
 
 The ΛCDM model has successfully explained the measured primordial element abundances, the large scale structure of the universe, and the presence of the cosmic microwave background. Despite these successes, many questions remain. What is the true nature of dark matter? What is the effective number of light neutrino species, Neff? What are the origins of the observed baryon and lepton asymmetries? Notably, one firm prediction of the ΛCDM model, the cosmic neutrino
