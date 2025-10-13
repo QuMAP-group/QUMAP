@@ -103,6 +103,11 @@ sections:
       text: We investigate how dark matter could have been produced in the early universe and what this means for its fundamental nature. Our research bridges cosmology and experiment, developing new methods to reveal dark matter signatures both in controlled laboratory systems and in the observation of celestial bodies.
     design:
       columns: '1'
+    link:
+      icon: link
+      icon_pack: fas
+      text: Beyond WIMPS webpage
+      url: 'https://beyondwimps.com/'
 
   - block: markdown
     id: quantsensor
