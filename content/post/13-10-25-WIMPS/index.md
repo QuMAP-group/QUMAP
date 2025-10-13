@@ -1,10 +1,12 @@
 ---
-title: Article featured in Universe Today
+title: Article Featured in Universe Today
 date: 2025-10-13
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Check out this recent article titled 'Dark Matter Could Create Dark Dwarfs at the Center of the Milky Way', featured in Universe Today.
 
 <!--more-->
+
+
 
 
