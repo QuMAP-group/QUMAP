@@ -5,7 +5,7 @@ authors:
 - examplephd
 - Javier Silva-Malpartida
 - Farinaldo S. Queiroz
-date: "2025-07-02T00:00:00Z"
+date: "2025-07-02T00:00:00Z" 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
