@@ -10,7 +10,7 @@ last_name: Shergold
 superuser: false
 
 # Role/position
-role: Postdoctoral
+role: Post-Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -20,28 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 interests:
-  - Multigravity, and massive extensions of GR
-  - Astroparticle physics and new dark sectors
-  - New detection strategies for dark matter
-  - New material design for particle detection
-  - Molecular property prediction for various applications
+  - Neutrino and light dark matter detection.
+  - Non-standard neutrino interactions (electromagnetic, dark matter).
+  - Precision calculations of Neff.
+  - Neutrino mass models.
 
-education:
-  courses:
-    - course: Undergraduate Medicine
-      institution: Freiburg University
-    - course: BSc/MSc Theoretical Physics
-      institution: Lugwig Maximilians University, Munich
-    - course: PhD
-      institution: Max Planck Institut fuer Kernphysik, Heidelberg
-    - course: Alexander von Humboldt Fellow
-      institution: Ohio State University
-    - course: Post-Doctoral Researcher
-      institution: Stockholm University
-    - course: Faculty
-      institution: University of Liverpool
+
     
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,15 +35,15 @@ social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:test@example.org'
-  - icon: x-twitter
-    icon_pack: fab
-    link: "https://x.com/SmirnovJuri"
-  - icon: globe
-    icon_pack: fas
-    link: "https://www.juri-smirnov.com/"
-  - icon: youtube
-    icon_pack: fab 
-    link: "https://www.youtube.com/watch?v=FGotDsp1IF4"
+#  - icon: x-twitter
+#    icon_pack: fab
+#    link: "https://x.com/SmirnovJuri"
+#  - icon: globe
+ #   icon_pack: fas
+ #   link: "https://www.juri-smirnov.com/"
+  #- icon: youtube
+ #   icon_pack: fab 
+#    link: "https://www.youtube.com/watch?v=FGotDsp1IF4"
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -80,8 +65,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - 	Post-Doctoral Researchers
 ---
 
-I am an experienced, versatile particle theorist and cosmologist. Work spans from formal theory to phenomenology, with connections to experiment, gravity, astrophysics, and atomic physics. At the moment my main focus is Dark Matter detection with a focus on new methods, such as quantum technologies, ultra low temperature environments and AI assisted new materials design.
+The ΛCDM model has successfully explained the measured primordial element abundances, the large scale structure of the universe, and the presence of the cosmic microwave background. Despite these successes, many questions remain. What is the true nature of dark matter? What is the effective number of light neutrino species, Neff? What are the origins of the observed baryon and lepton asymmetries? Notably, one firm prediction of the ΛCDM model, the cosmic neutrino
+background, remains elusive.
 
+My research focuses primarily on the development of techniques to detect low energy neutrinos, such as those from the cosmic neutrino background or thermal processes in the Sun, and light dark matter, which remains undetected despite making up over 25% of the universe. Historically, I have explored the possibility of using coherent scattering, spin precession experiments, and accelerators. More recently, my work has focused on the potential of atoms and molecules as neutrino and dark matter detectors, incorporating machine learning techniques for novel material discovery. I am also a member of QUEST-DMC collaboration (hyperlink: https://gtr.ukri.org/projects?ref=ST%2FT006773%2F1), which aims to detect sub-GeV dark matter using superfluid Helium-3. 
+
+I've also authored the software package CINCO (cinco hyperlink: https://gitlab.com/JShergold/cinco), an automated tool for the computation of dark matter and neutrino induced transition amplitudes in hydrogen ions. There are lots of planned upgrades to this package, so please let me know if you're interested in working on them with me!
