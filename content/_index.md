@@ -14,7 +14,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: featured.jpg
             filters:
               brightness: 0.7
           position: right
@@ -25,7 +25,7 @@ sections:
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: BeyondWIMPsBGImage.png
             filters:
               brightness: 0.7
           position: center
@@ -41,7 +41,7 @@ sections:
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: QUEST Superfluids BG.png
             filters:
               brightness: 0.7
           position: center
@@ -57,7 +57,7 @@ sections:
         align: right
         background:
           image:
-            filename: coders.jpg
+            filename: AI for Crystals BG image.png
             filters:
               brightness: 0.5
           position: center
@@ -73,7 +73,7 @@ sections:
         align: right
         background:
           image:
-            filename: coders.jpg
+            filename: AI for Antibiotics Image.png
             filters:
               brightness: 0.5
           position: center
