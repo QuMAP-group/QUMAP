@@ -8,7 +8,7 @@ sections:
 
   - block: slider
     content:
-      slides:
+      slides: 
       - title: Welcome to the QuMAP Research Group
         content: 'Take a look at what we are working on...'
         align: center
