@@ -23,7 +23,6 @@ interests:
   - Dark Matter
   - Neutrino Phenomenology
   - Leptogenesis
-
 # education:
  # courses:
     - course: MSc in Theoretical Physics (Particles, Strings and Cosmology)
