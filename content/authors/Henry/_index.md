@@ -19,11 +19,11 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
-
 interests:
   - Dark Matter
   - Neutrino Phenomenology
   - Leptogenesis
+  - 
 # education:
  # courses:
     - course: MSc in Theoretical Physics (Particles, Strings and Cosmology)
